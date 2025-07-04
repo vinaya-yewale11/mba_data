@@ -1,0 +1,134 @@
+[
+    {
+        "antecedent": [
+            "Diamond Studs"
+        ],
+        "consequent": [
+            "Choker"
+        ],
+        "support": 0.17,
+        "confidence": 0.5,
+        "lift": 3.0
+    },
+    {
+        "antecedent": [
+            "Choker"
+        ],
+        "consequent": [
+            "Diamond Studs"
+        ],
+        "support": 0.17,
+        "confidence": 1.0,
+        "lift": 3.0
+    },
+    {
+        "antecedent": [
+            "Classic Mangalsutra"
+        ],
+        "consequent": [
+            "Gold Chain"
+        ],
+        "support": 0.17,
+        "confidence": 1.0,
+        "lift": 3.0
+    },
+    {
+        "antecedent": [
+            "Gold Chain"
+        ],
+        "consequent": [
+            "Classic Mangalsutra"
+        ],
+        "support": 0.17,
+        "confidence": 0.5,
+        "lift": 3.0
+    },
+    {
+        "antecedent": [
+            "Gold Bangle"
+        ],
+        "consequent": [
+            "Diamond Studs"
+        ],
+        "support": 0.17,
+        "confidence": 0.5,
+        "lift": 1.5
+    },
+    {
+        "antecedent": [
+            "Diamond Studs"
+        ],
+        "consequent": [
+            "Gold Bangle"
+        ],
+        "support": 0.17,
+        "confidence": 0.5,
+        "lift": 1.5
+    },
+    {
+        "antecedent": [
+            "Solitaire Ring"
+        ],
+        "consequent": [
+            "Gold Band"
+        ],
+        "support": 0.17,
+        "confidence": 1.0,
+        "lift": 6.0
+    },
+    {
+        "antecedent": [
+            "Gold Band"
+        ],
+        "consequent": [
+            "Solitaire Ring"
+        ],
+        "support": 0.17,
+        "confidence": 1.0,
+        "lift": 6.0
+    },
+    {
+        "antecedent": [
+            "Gold Bangle"
+        ],
+        "consequent": [
+            "Gold Jhumka"
+        ],
+        "support": 0.17,
+        "confidence": 0.5,
+        "lift": 1.5
+    },
+    {
+        "antecedent": [
+            "Gold Jhumka"
+        ],
+        "consequent": [
+            "Gold Bangle"
+        ],
+        "support": 0.17,
+        "confidence": 0.5,
+        "lift": 1.5
+    },
+    {
+        "antecedent": [
+            "Gold Jhumka"
+        ],
+        "consequent": [
+            "Gold Chain"
+        ],
+        "support": 0.17,
+        "confidence": 0.5,
+        "lift": 1.5
+    },
+    {
+        "antecedent": [
+            "Gold Chain"
+        ],
+        "consequent": [
+            "Gold Jhumka"
+        ],
+        "support": 0.17,
+        "confidence": 0.5,
+        "lift": 1.5
+    }
+]
